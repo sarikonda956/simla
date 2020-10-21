@@ -1,0 +1,8 @@
+pipeline {
+  agent any
+     stages {
+       stage ("code for scm")
+          steps {
+          
+          
+  
